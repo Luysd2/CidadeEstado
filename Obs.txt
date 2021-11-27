@@ -1,0 +1,10 @@
+O banco de dados for exportado, mas se preferir tem a informações 
+sobre ele(para essa aplicação)
+
+Banco de dados : CidadeEstado
+Tabela: cidadeestado
+Colunas:
+cidadeestado_id (PK) (NN) (AI) tipo inteiro
+estado (NN) tipo varchar(100)
+cidade (NN) tipo varchar(100)
+data_cadastro (NN) tipo datetime
